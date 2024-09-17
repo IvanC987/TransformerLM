@@ -1,0 +1,6 @@
+__pycache__
+Datasets/__pycache__
+Datasets/Docker
+Datasets/TrainingDataset_Tokens
+Datasets/TextDS_10MB_Backup
+Datasets/TextDS_100MB

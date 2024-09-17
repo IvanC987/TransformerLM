@@ -1,0 +1,224 @@
+Training Result
+
+
+
+Currently using device=cuda
+Batches per file: 3.3K
+Batches per epoch (training): 133.5K
+Batches per epoch (val): 9.8K
+14.71 M parameters
+Load checkpoint? [Y/N]: n
+At step=0, Train Loss=7.8584, Val Loss=7.8536, Took 5s
+At step=100, Train Loss=5.2626, Val Loss=5.2599, Took 108s
+At step=200, Train Loss=4.3201, Val Loss=4.3265, Took 108s
+At step=300, Train Loss=3.8741, Val Loss=3.9012, Took 108s
+At step=400, Train Loss=3.6494, Val Loss=3.6177, Took 108s
+At step=500, Train Loss=3.4799, Val Loss=3.4559, Took 108s
+At step=600, Train Loss=3.3933, Val Loss=3.3780, Took 108s
+At step=700, Train Loss=3.3273, Val Loss=3.3196, Took 108s
+At step=800, Train Loss=3.2521, Val Loss=3.2666, Took 116s
+At step=900, Train Loss=3.2014, Val Loss=3.2107, Took 108s
+At step=1000, Train Loss=3.1554, Val Loss=3.1459, Took 108s
+Saving Model at step=1000
+At step=1100, Train Loss=3.0847, Val Loss=3.0722, Took 108s
+At step=1200, Train Loss=3.0232, Val Loss=3.0067, Took 116s
+At step=1300, Train Loss=2.9618, Val Loss=2.9530, Took 108s
+At step=1400, Train Loss=2.8758, Val Loss=2.8948, Took 108s
+At step=1500, Train Loss=2.8146, Val Loss=2.8309, Took 108s
+At step=1600, Train Loss=2.7648, Val Loss=2.7819, Took 115s
+At step=1700, Train Loss=2.7168, Val Loss=2.7311, Took 108s
+At step=1800, Train Loss=2.6405, Val Loss=2.6991, Took 108s
+At step=1900, Train Loss=2.6138, Val Loss=2.6360, Took 108s
+At step=2000, Train Loss=2.5885, Val Loss=2.5765, Took 117s
+Saving Model at step=2000
+At step=2100, Train Loss=2.5132, Val Loss=2.5410, Took 109s
+At step=2200, Train Loss=2.4802, Val Loss=2.4872, Took 108s
+At step=2300, Train Loss=2.4019, Val Loss=2.4389, Took 108s
+At step=2400, Train Loss=2.3484, Val Loss=2.4010, Took 117s
+At step=2500, Train Loss=2.3434, Val Loss=2.3702, Took 108s
+At step=2600, Train Loss=2.3250, Val Loss=2.3218, Took 108s
+At step=2700, Train Loss=2.2584, Val Loss=2.3034, Took 116s
+At step=2800, Train Loss=2.2301, Val Loss=2.2750, Took 108s
+At step=2900, Train Loss=2.2072, Val Loss=2.2509, Took 108s
+At step=3000, Train Loss=2.1971, Val Loss=2.2555, Took 108s
+Saving Model at step=3000
+At step=3100, Train Loss=2.1776, Val Loss=2.2217, Took 116s
+At step=3200, Train Loss=2.1464, Val Loss=2.2151, Took 108s
+At step=3300, Train Loss=2.1159, Val Loss=2.1894, Took 108s
+At step=3400, Train Loss=2.1179, Val Loss=2.1748, Took 108s
+At step=3500, Train Loss=2.1076, Val Loss=2.1585, Took 117s
+At step=3600, Train Loss=2.0741, Val Loss=2.1547, Took 108s
+At step=3700, Train Loss=2.1379, Val Loss=2.1491, Took 108s
+At step=3800, Train Loss=2.1210, Val Loss=2.1145, Took 108s
+At step=3900, Train Loss=2.0856, Val Loss=2.1044, Took 117s
+At step=4000, Train Loss=2.0764, Val Loss=2.0906, Took 108s
+Saving Model at step=4000
+At step=4100, Train Loss=2.0547, Val Loss=2.0664, Took 108s
+At step=4200, Train Loss=2.0282, Val Loss=2.0715, Took 108s
+At step=4300, Train Loss=2.0182, Val Loss=2.0616, Took 116s
+At step=4400, Train Loss=2.0228, Val Loss=2.0440, Took 108s
+At step=4500, Train Loss=2.0134, Val Loss=2.0419, Took 108s
+At step=4600, Train Loss=1.9952, Val Loss=2.0206, Took 108s
+At step=4700, Train Loss=2.0016, Val Loss=2.0251, Took 116s
+At step=4800, Train Loss=1.9846, Val Loss=2.0262, Took 108s
+At step=4900, Train Loss=1.9666, Val Loss=1.9974, Took 108s
+At step=5000, Train Loss=1.9906, Val Loss=2.0024, Took 116s
+Saving Model at step=5000
+At step=5100, Train Loss=1.9849, Val Loss=1.9759, Took 108s
+At step=5200, Train Loss=1.9732, Val Loss=1.9626, Took 108s
+At step=5300, Train Loss=1.9605, Val Loss=1.9549, Took 108s
+At step=5400, Train Loss=1.9540, Val Loss=1.9614, Took 118s
+At step=5500, Train Loss=1.9560, Val Loss=1.9512, Took 108s
+At step=5600, Train Loss=1.9438, Val Loss=1.9479, Took 108s
+At step=5700, Train Loss=1.9452, Val Loss=1.9466, Took 108s
+At step=5800, Train Loss=1.9287, Val Loss=1.9418, Took 117s
+At step=5900, Train Loss=1.9363, Val Loss=1.9345, Took 108s
+At step=6000, Train Loss=1.9141, Val Loss=1.9353, Took 108s
+Saving Model at step=6000
+At step=6100, Train Loss=1.8839, Val Loss=1.9289, Took 108s
+At step=6200, Train Loss=1.8988, Val Loss=1.9320, Took 117s
+At step=6300, Train Loss=1.9038, Val Loss=1.9295, Took 108s
+At step=6400, Train Loss=1.8800, Val Loss=1.9143, Took 108s
+At step=6500, Train Loss=1.8794, Val Loss=1.9327, Took 112s
+At step=6600, Train Loss=1.8812, Val Loss=1.9262, Took 117s
+At step=6700, Train Loss=1.8938, Val Loss=1.9288, Took 108s
+At step=6800, Train Loss=1.8680, Val Loss=1.9350, Took 108s
+At step=6900, Train Loss=1.8834, Val Loss=1.9180, Took 108s
+At step=7000, Train Loss=1.8614, Val Loss=1.9099, Took 112s
+Saving Model at step=7000
+At step=7100, Train Loss=1.8579, Val Loss=1.9169, Took 108s
+At step=7200, Train Loss=1.8705, Val Loss=1.9256, Took 108s
+At step=7300, Train Loss=1.8575, Val Loss=1.9131, Took 116s
+At step=7400, Train Loss=1.8973, Val Loss=1.9312, Took 108s
+At step=7500, Train Loss=1.9010, Val Loss=1.9094, Took 108s
+At step=7600, Train Loss=1.8583, Val Loss=1.9147, Took 108s
+At step=7700, Train Loss=1.8620, Val Loss=1.9093, Took 117s
+At step=7800, Train Loss=1.8600, Val Loss=1.8959, Took 108s
+At step=7900, Train Loss=1.8655, Val Loss=1.9002, Took 108s
+At step=8000, Train Loss=1.8467, Val Loss=1.8987, Took 108s
+Saving Model at step=8000
+At step=8100, Train Loss=1.8467, Val Loss=1.8829, Took 117s
+At step=8200, Train Loss=1.8543, Val Loss=1.8872, Took 108s
+At step=8300, Train Loss=1.8382, Val Loss=1.8958, Took 108s
+At step=8400, Train Loss=1.8556, Val Loss=1.8850, Took 108s
+At step=8500, Train Loss=1.8430, Val Loss=1.8799, Took 117s
+At step=8600, Train Loss=1.8350, Val Loss=1.8828, Took 108s
+At step=8700, Train Loss=1.8502, Val Loss=1.8700, Took 108s
+At step=8800, Train Loss=1.8542, Val Loss=1.8669, Took 108s
+At step=8900, Train Loss=1.8528, Val Loss=1.8584, Took 116s
+At step=9000, Train Loss=1.8476, Val Loss=1.8610, Took 108s
+Saving Model at step=9000
+At step=9100, Train Loss=1.8474, Val Loss=1.8509, Took 108s
+At step=9200, Train Loss=1.8481, Val Loss=1.8386, Took 108s
+At step=9300, Train Loss=1.8426, Val Loss=1.8493, Took 116s
+At step=9400, Train Loss=1.8284, Val Loss=1.8441, Took 108s
+At step=9500, Train Loss=1.8362, Val Loss=1.8516, Took 108s
+At step=9600, Train Loss=1.8310, Val Loss=1.8416, Took 117s
+At step=9700, Train Loss=1.8235, Val Loss=1.8345, Took 108s
+At step=9800, Train Loss=1.8118, Val Loss=1.8262, Took 108s
+At step=9900, Train Loss=1.8082, Val Loss=1.8297, Took 108s
+At step=10000, Train Loss=1.8132, Val Loss=1.8339, Took 117s
+Saving Model at step=10000
+At step=10100, Train Loss=1.7837, Val Loss=1.8329, Took 108s
+At step=10200, Train Loss=1.8143, Val Loss=1.8276, Took 108s
+At step=10300, Train Loss=1.8088, Val Loss=1.8319, Took 108s
+At step=10400, Train Loss=1.8071, Val Loss=1.8322, Took 117s
+At step=10500, Train Loss=1.7884, Val Loss=1.8407, Took 108s
+At step=10600, Train Loss=1.8070, Val Loss=1.8362, Took 108s
+At step=10700, Train Loss=1.7913, Val Loss=1.8287, Took 108s
+At step=10800, Train Loss=1.7920, Val Loss=1.8368, Took 116s
+At step=10900, Train Loss=1.7976, Val Loss=1.8278, Took 108s
+At step=11000, Train Loss=1.7921, Val Loss=1.8366, Took 108s
+Saving Model at step=11000
+At step=11100, Train Loss=1.8744, Val Loss=1.8558, Took 108s
+At step=11200, Train Loss=1.8207, Val Loss=1.8362, Took 117s
+At step=11300, Train Loss=1.7981, Val Loss=1.8371, Took 108s
+At step=11400, Train Loss=1.8048, Val Loss=1.8368, Took 108s
+At step=11500, Train Loss=1.7979, Val Loss=1.8343, Took 108s
+At step=11600, Train Loss=1.7827, Val Loss=1.8379, Took 116s
+At step=11700, Train Loss=1.7967, Val Loss=1.8313, Took 108s
+At step=11800, Train Loss=1.7906, Val Loss=1.8245, Took 108s
+At step=11900, Train Loss=1.7842, Val Loss=1.8113, Took 108s
+At step=12000, Train Loss=1.7724, Val Loss=1.8224, Took 117s
+Saving Model at step=12000
+At step=12100, Train Loss=1.7932, Val Loss=1.8161, Took 108s
+At step=12200, Train Loss=1.7763, Val Loss=1.8219, Took 108s
+At step=12300, Train Loss=1.7821, Val Loss=1.8075, Took 117s
+At step=12400, Train Loss=1.8026, Val Loss=1.8217, Took 108s
+At step=12500, Train Loss=1.7889, Val Loss=1.8121, Took 108s
+At step=12600, Train Loss=1.7860, Val Loss=1.8204, Took 108s
+At step=12700, Train Loss=1.7919, Val Loss=1.8119, Took 117s
+At step=12800, Train Loss=1.7864, Val Loss=1.7950, Took 108s
+At step=12900, Train Loss=1.7932, Val Loss=1.7985, Took 108s
+At step=13000, Train Loss=1.7842, Val Loss=1.7966, Took 116s
+Saving Model at step=13000
+At step=13100, Train Loss=1.7793, Val Loss=1.7935, Took 116s
+At step=13200, Train Loss=1.7883, Val Loss=1.7937, Took 108s
+At step=13300, Train Loss=1.7897, Val Loss=1.7912, Took 108s
+At step=13400, Train Loss=1.7727, Val Loss=1.7861, Took 108s
+At step=13500, Train Loss=1.7769, Val Loss=1.7858, Took 119s
+At step=13600, Train Loss=1.7749, Val Loss=1.7783, Took 108s
+At step=13700, Train Loss=1.7817, Val Loss=1.7771, Took 108s
+At step=13800, Train Loss=1.7673, Val Loss=1.7662, Took 108s
+At step=13900, Train Loss=1.7313, Val Loss=1.7641, Took 117s
+At step=14000, Train Loss=1.7600, Val Loss=1.7740, Took 108s
+Saving Model at step=14000
+At step=14100, Train Loss=1.7716, Val Loss=1.7645, Took 108s
+At step=14200, Train Loss=1.7461, Val Loss=1.7661, Took 108s
+At step=14300, Train Loss=1.7519, Val Loss=1.7537, Took 117s
+At step=14400, Train Loss=1.7579, Val Loss=1.7470, Took 108s
+At step=14500, Train Loss=1.7535, Val Loss=1.7282, Took 108s
+At step=14600, Train Loss=1.7497, Val Loss=1.7438, Took 117s
+At step=14700, Train Loss=1.7540, Val Loss=1.7417, Took 108s
+At step=14800, Train Loss=1.8129, Val Loss=1.7547, Took 108s
+At step=14900, Train Loss=1.7653, Val Loss=1.7489, Took 108s
+At step=15000, Train Loss=1.7752, Val Loss=1.7604, Took 117s
+Saving Model at step=15000
+At step=15100, Train Loss=1.7669, Val Loss=1.7749, Took 108s
+At step=15200, Train Loss=1.7579, Val Loss=1.7740, Took 108s
+At step=15300, Train Loss=1.7685, Val Loss=1.7756, Took 108s
+At step=15400, Train Loss=1.7660, Val Loss=1.7771, Took 117s
+At step=15500, Train Loss=1.7594, Val Loss=1.7710, Took 108s
+At step=15600, Train Loss=1.7596, Val Loss=1.7717, Took 108s
+At step=15700, Train Loss=1.7447, Val Loss=1.7731, Took 108s
+At step=15800, Train Loss=1.7625, Val Loss=1.7641, Took 108s
+At step=15900, Train Loss=1.7666, Val Loss=1.7508, Took 108s
+At step=16000, Train Loss=1.7466, Val Loss=1.7603, Took 108s
+Saving Model at step=16000
+At step=16100, Train Loss=1.7557, Val Loss=1.7532, Took 108s
+At step=16200, Train Loss=1.7418, Val Loss=1.7513, Took 108s
+At step=16300, Train Loss=1.7362, Val Loss=1.7641, Took 108s
+At step=16400, Train Loss=1.7426, Val Loss=1.7713, Took 108s
+At step=16499, Train Loss=1.7261, Val Loss=1.7724, Took 107s
+
+
+
+For 
+
+
+    torch.manual_seed(89)
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print(f"Currently using device={device}")
+
+    # Hyper Parameters   !!!REVIEW OVER HYPERPARAMETERS FIRST!!!
+    # ------------------------------------
+    # Parameters for model
+    batch_size = 32
+    seq_len = 512
+    n_embd = 512
+    n_heads = 8
+    n_layers = 4
+    dropout = 0.1
+
+    # Values for training loop
+    training_iterations = 16500  # Do 6000 for this
+    grad_accum_steps = 8  # So 8 grad_accum_steps * 32 batches * seq_len=512 ~131K tokens. GPT Paper mentioned using 0.5M, but for our case, 131K works
+    eval_iterations = 50
+    eval_interval = 100  # 100 might seem short, however since grad_accum_steps is 8, technically we evaluate every 800 iterations
+    warmup_steps = 4000
+
+    # Values for checkpointing
+    previously_trained_iters = 0
+    save_cp_iters = 1000
+    save_cp = True
+    # ------------------------------------
